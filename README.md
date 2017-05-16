@@ -3,6 +3,8 @@ This is one of two backends I created for experimenting with protocol buffers. T
 
 See also: [Protocol Buffers – Perfect Web Server](https://github.com/JoshuaSullivan/Protobufs.perfect-backend)
 
+See also: [Client iOS App](https://github.com/JoshuaSullivan/Protobufs.iOS)
+
 ## Installation Instructions
 Already have Swift? Jump to **Install Server**.
 
